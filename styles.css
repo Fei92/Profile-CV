@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+  font-size: 7em;
+  margin: 20px;
+  margin-top: 120px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-top-width: 10px;
+    width: 8%;
+}
+
+p {
+    text-align: center;
+}
+
+/* *********************************************** CLASS SELECTOR ***************************************************** */
+
+.top_container {
+  background-color: #212121;
+  padding-top: 50px;
+  position: relative;
+  color: lightgray;
+}
+
+.middle-container {
+  padding-top: 40px;
+  background-color: #323232;
+  color: lightgray;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.bottom-container {
+    background-color: #0d7377;
+    padding-top: 50px;
+    margin-bottom: 0;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  width: 300px;
+  height: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  width: 300px;
+  height: auto;
+}
+
+.mountain {
+  width: 900px;
+  height: auto;
+}
+
+.profile-pic {
+  width: 300px;
+  height: auto;
+}
+
+.Mario {
+    width: 300px;
+    height: auto;
+}
